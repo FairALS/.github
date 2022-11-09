@@ -1,4 +1,4 @@
 # Fair Active Learning Strategies
 
 
-## [Multi-Label Text Classification](https://github.com/FairALS/multi-label-text-classification)
+## [Text Classification](https://github.com/FairALS/text-classification)
